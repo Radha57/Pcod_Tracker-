@@ -12,7 +12,7 @@ A simple Streamlit web app to track PCOD-friendly habits: water intake, exercise
 ## 📸 Screenshots
 
 ![Dashboard](images/dashboard.png "Main Dashboard showing daily entries")
-![Symptom Tracker](images/symptomstracker.png "Daily symptom tracker form")
+![Symptom Tracker](images/Symptomstracker.png "Daily symptom tracker form")
 ![Badges Earned](images/badges.png "Achievements and badges earned")
 ![Streaks](images/streaks.png "Current streaks and total logged days")
 ![Water Intake](images/progress_water_intake.png "Last 7 days water intake chart")
