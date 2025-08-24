@@ -16,8 +16,8 @@ A simple Streamlit web app to track PCOD-friendly habits: water intake, exercise
 ![Saved Entry](images/saved_last_entry.png "Example of a saved entry with notes and mood")
 ![Water Intake](images/progress_water_intake.png "Last 7 days water intake chart")
 ![Day Logs](images/Day_logs_count.png "Day-wise log counts for the last 30 days")
-![Badges Earned](images/badges.png "Achievements and badges earned")
 ![Streaks](images/streaks.png "Current streaks and total logged days")
+![Badges Earned](images/badges.png "Achievements and badges earned")
 ![Saved Data](images/csv_data.png "Example of saved data in CSV")
 
 ## How to Run
