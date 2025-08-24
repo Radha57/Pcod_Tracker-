@@ -35,12 +35,10 @@ streamlit run app.py
 
 Tech Stack
 
-* Language: Python
+- Language: Python
+- Framework: Streamlit
+- Data: CSV (pandas)
+- Visualization: Streamlit line charts and bar charts
+- Cloud (optional): Can deploy on Streamlit Cloud
 
-* Framework: Streamlit
 
-* Data: CSV (pandas)
-
-* Visualization: Streamlit line charts and bar charts
-
-*Cloud (optional): Can deploy on Streamlit Cloud
